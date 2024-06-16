@@ -1,6 +1,6 @@
 # Recipe Finder
 
-[RecipeFinder](https://k-meal-planner.herokuapp.com/)
+[RecipeFinder](https://recept-main.herokuapp.com/)
 
 ## Overview
 
